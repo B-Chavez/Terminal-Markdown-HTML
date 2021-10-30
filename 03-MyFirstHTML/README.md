@@ -1,6 +1,6 @@
-* **Instructions:**
+# **Instructions:**
 
-  * In a new HTML file, create the basic structure of an HTML document and include the following in it:
+## * In a new HTML file, create the basic structure of an HTML document and include the following in it:
 
     * DOCTYPE declaration
     * Head tag with a title tag
@@ -11,7 +11,7 @@
       * Make the second link bold.
       * Make the third link a placeholder so it goes nowhere.
 
-  * HINT: You should be looking up at the screen pretty often :P
+## * HINT: It helps to load the page in a Live Server and view your changes as you make them
 
   * Bonus:
     * Create an ordered list of steps to make a sandwich.

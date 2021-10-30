@@ -10,7 +10,7 @@
 
     - A **paragraph** describing the nature of the document.
 
-        - Include a **link** to your GitHub page.
+        - Include a **link** to your GitHub repository.
 
     - A **horizontal line** underneath.
 

@@ -8,5 +8,6 @@
   * Open the current folder containing the new HTML file.
 
 ## BONUS
+
 * Create multiple directories/folders with the names `one_folder` and `second_folder` in one command.
 * Create multiple files with the names `one.html` and `two.html` in one command in the first_day_stuff directory.
