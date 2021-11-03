@@ -1,4 +1,4 @@
-# Welcome to HTML 5!
+# Welcome to HTML 5! Happy you're here!
 ---
 ## There are 4 folders. Each with different assignments to practice
 
